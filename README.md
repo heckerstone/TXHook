@@ -1,5 +1,9 @@
 # TXHook 腾讯QQ协议分析工具
 
+[ForAndroid](https://github.com/fuqiuluo/TXHook)
+
+[ForIOS](https://github.com/fuqiuluo/frida-ios-oicq)
+
 ## 该项目不会再次更新了，爱发电拯救不了某些人的非法利用。
 
 [TxhookPro截图1](https://user-images.githubusercontent.com/61898844/185811625-2e0409ec-84c2-4044-b52c-bb29046300ad.jpg)

@@ -4,16 +4,11 @@
 
 [ForIOS](https://github.com/fuqiuluo/frida-ios-oicq)
 
-## 该项目不会再次更新了，爱发电拯救不了某些人的非法利用。
+# 附加Pro
 
-[TxhookPro截图1](https://user-images.githubusercontent.com/61898844/185811625-2e0409ec-84c2-4044-b52c-bb29046300ad.jpg)
-[TxhookPro截图2](https://user-images.githubusercontent.com/61898844/185811628-7fbc63bd-b72c-4ba4-bd65-4d9983144e7e.jpg)
+群聊：702991373(进不去就issue)
 
 在github上拥有相关开源项目的可以获取一份TXHOOKPro，TXHookPro仅作为学习与交流使用，请勿在非学习用途特别是违法用途上使用该软件，TXHookPro为捐赠礼品(非售卖商品)，任何形式有关txhookpro的交易都无效。
-
-### 温馨提示
-
-腾讯内鬼啊，我放个群，您就别进来了，以后您有事和我打声招呼好吗？一声不吭的背刺我，我很难过的。我建新群了，您进来和我说一声好不好？群号：901422091
 
 ## 运行事项
 
